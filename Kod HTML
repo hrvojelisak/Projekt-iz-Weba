@@ -1,0 +1,273 @@
+<html>
+<head>
+    <title>PMC Croatia</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet">
+    
+    <script src="https://cdn.jsdelivr.net/gh/cferdinandi/smooth-scroll/dist/smooth-scroll.polyfills.min.js"></script>
+</head>
+<body>
+<section id="banner">
+    <img src="images/logo.png" class="logo">   
+    <div class="banner-text">
+        <h1>Privatne sigurnosne službe</h1>
+        <p>For peace and security</p>
+        <div class="banner-btn">
+        </div>
+    </div>
+</section>    
+    
+<div id="sideNav">
+    <nav>
+    <ul>
+        <li><a href="#banner">GLAVNO</a></li>
+        <li><a href="#onama">O NAMA</a></li>
+        <li><a href="#feature">ZNAČAJNOSTI</a></li>
+        <li><a href="#service">USLUGE</a></li>
+        <li><a href="#vijesti">VIJESTI</a></li>
+        <li><a href="#footer">KONTAKT</a></li>
+        <li><a href="#video">VIDEO</a></li>
+    </ul>
+    </nav> 
+</div>
+<div id="menuBtn">
+    <img src="images/menu.png" id="menu">
+</div>
+    
+<!--o nama-->
+
+<section id="onama">
+<div class="title-text">
+<p>O NAMA</p>
+</div> 
+<div class="feature-box">
+    <div class="features">
+        <h1>Povijest razvoja</h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque convallis efficitur consequat. Etiam molestie erat vel ullamcorper gravida. Mauris id pellentesque metus. In semper, lectus id porta aliquet, nunc est ultrices dui, a dictum magna lacus ac velit. Ut suscipit hendrerit ligula vitae semper. Suspendisse pellentesque porta ante quis feugiat. Morbi malesuada mi sit amet erat maximus faucibus sit amet et elit. Praesent sit amet sem at odio congue fermentum sit amet a purus. Cras tincidunt nunc nec urna sollicitudin, eget malesuada urna tempor. Pellentesque eu ligula tellus. Aliquam est nibh, maximus in hendrerit ac, aliquam ut ligula. Quisque ultrices magna eros, ac congue diam consectetur nec.
+
+Sed non fermentum eros, nec lobortis elit. Sed pulvinar faucibus porttitor. Vivamus id gravida ligula. In viverra est justo, non lacinia sapien feugiat vel. Vivamus iaculis odio egestas feugiat aliquet. Sed neque ex, finibus ut ante a, venenatis mollis nisl. Etiam ut tincidunt velit. Fusce euismod nisl sem, vel aliquet justo laoreet eget. Integer quis tristique est, vitae sodales nisi. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam sed orci suscipit lectus pharetra efficitur. Ut aliquam luctus faucibus. Ut id egestas odio, eget venenatis tortor. Aenean interdum lacus ac diam pharetra, ac rhoncus justo iaculis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc lobortis vel urna in semper.</p>
+    </div>
+    <div class="features-img">
+        <img src="images/somemikrofon.jpg">
+    </div>
+</div>
+</section>
+    
+    
+<!--Features-->
+    
+<section id="feature">
+<div class="title-text">
+<p>ZNAČAJKE</p>
+<h1>Zašto odabrati nas</h1>
+</div> 
+<div class="feature-box">
+    <div class="features">
+        <h1>Profesionalni Ex Vojnici</h1>
+        <div class="features-desc">
+            <div class="feature-icon">
+                <i class="fa fa-shield"></i>
+            </div>
+            <div class="feature-text">
+                <p>Iskusni vojnici sa neprocjenjivim iskustvom iz raznih zemalja</p>
+            </div>
+        </div>
+        <h1>Moderna oprema zaštite</h1>
+        <div class="features-desc">
+            <div class="feature-icon">
+                <i class="fa fa-binoculars"></i>
+            </div>
+            <div class="feature-text">
+                <p>Opremljeni najmodernijom opremom, učiniti će sve kako bi vas zaštitili</p>
+            </div>
+        </div>
+        <h1>Godine uspješnih opreacija</h1>
+        <div class="features-desc">
+            <div class="feature-icon">
+                <i class="fa fa-handshake-o"></i>
+            </div>
+            <div class="feature-text">
+                <p>Obavljene visoko rizične misije,bez greške sa 100% uspjehom</p>
+            </div>
+        </div>
+    </div>
+    <div class="features-img">
+        <img src="images/soldier1.jpg">
+    </div>
+</div>
+</section>
+    
+<!--Service-->
+    
+    
+<section id="service">
+    <div class="title-text">
+    <p>Usluge</p>
+    <h1>Nudimo najbolju zaštitu</h1>
+    </div>
+    <div class="service-box">
+        <div class="single-service">
+            <img src="images/body1.jpg">
+            <div class="overlay"></div>
+            <div class="service-desc">
+                <h3>Sigurnosna pratnja</h3>
+                <hr>
+                <p>Omogućavamo naoružanu pratnju VIP osoba</p>
+            </div>
+        </div>
+        <div class="single-service">
+            <img src="images/body2.jpg">
+            <div class="overlay"></div>
+            <div class="service-desc">
+                <h3>Čuvanje opreme visoke vrijednosti</h3>
+                <hr>
+                <p>Obrana od lopova i/ili od drugih naoružanih skupina</p>
+            </div>
+        </div>
+        <div class="single-service">
+            <img src="images/body3.jpg">
+            <div class="overlay"></div>
+            <div class="service-desc">
+                <h3>Lokalna zaštita</h3>
+                <hr>
+                <p>Omogućavamo zaštitu u civilu</p>
+            </div>
+        </div>
+        <div class="single-service">
+            <img src="images/body4.jpg">
+            <div class="overlay"></div>
+            <div class="service-desc">
+                <h3>Strijelci</h3>
+                <hr>
+                <p>Zaštita iz daleka</p>
+            </div>
+        </div>
+    </div>
+</section> 
+    
+    
+<!--vijesti-->
+    
+<section id="vijesti">
+    <div class="title-text">
+    <p>Vijesti</p>
+    <h1>Novosti i zbivanja</h1>
+    </div>
+    <div class="testimonial-row">
+        <div class="testimonial-col">
+                <div class="user">
+                    <img src="images/direktor.jpg">
+                    <div class="user-info">
+                        <h4>DIREKTOR <i class="fa fa-twitter"></i></h4>
+                        <small>@direktor</small>
+                    </div>
+            </div>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam auctor dignissim ante, sit amet consectetur nibh accumsan vel. Morbi nec dui quis leo blandit sagittis. Suspendisse ultrices magna ut laoreet mollis. Sed dapibus augue in pharetra hendrerit. Suspendisse malesuada, tellus a varius convallis, magna libero lobortis libero, a pretium arcu urna sit amet ex. In vitae lacus dolor. Vestibulum pretium enim tincidunt, laoreet lacus varius, pellentesque urna.
+
+</p>
+        </div>
+        <div class="testimonial-col">
+            <div class="user">
+                    <img src="images/direktor.jpg">
+                    <div class="user-info">
+                        <h4>DIREKTOR <i class="fa fa-twitter"></i></h4>
+                        <small>@direktor</small>
+                    </div>
+            </div>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam auctor dignissim ante, sit amet consectetur nibh accumsan vel. Morbi nec dui quis leo blandit sagittis. Suspendisse ultrices magna ut laoreet mollis. Sed dapibus augue in pharetra hendrerit.
+</p>
+        </div>
+        <div class="testimonial-col">
+            <div class="user">
+                    <img src="images/direktor.jpg">
+                    <div class="user-info">
+                        <h4>DIREKTOR <i class="fa fa-twitter"></i></h4>
+                        <small>@direktor</small>
+                    </div>
+            </div>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam auctor dignissim ante, sit amet consectetur nibh accumsan vel. Morbi nec dui quis leo blandit sagittis. Suspendisse ultrices magna ut laoreet mollis. Sed dapibus augue in pharetra hendrerit. Suspendisse malesuada, tellus a varius convallis, magna libero lobortis libero, a pretium arcu urna sit amet ex.
+</p>
+        </div>
+    </div>
+        
+</section> 
+    
+        
+
+<!--footer-->
+    
+<section id="footer">
+    <div class="title-text">
+    <p>Kontakt</p>
+    <h1>Kontaktirajte nas</h1>
+    </div>
+<div class="footer-row">
+<div class="footer-left">
+    <h1>Radno vrijeme</h1>
+    <p><i class="fa fa-clock-o"></i>Od ponedjeljka do petka - 09:00 do 17:00</p>
+    <p><i class="fa fa-clock-o"></i>Subota - 09:00 do 13:00</p>
+</div>
+<div class="footer-right">
+    <h1>Adresa</h1>
+    <p>10000 Zagreb, Hrvatska<i class="fa fa-map-marker"></i></p>
+    <p>pmc@gmail.com<i class="fa fa-paper-plane"></i></p>
+    <p>+385 2000 000<i class="fa fa-phone"></i></p>
+</div>
+</div>
+
+<div class="social-links">
+    <i class="fa fa-facebook"></i>
+    <i class="fa fa-instagram"></i>
+    <i class="fa fa-twitter"></i>
+    <i class="fa fa-youtube-play"></i>
+    <p>Izradio Hrvoje Lisak, ORS Redovni, Web aplikacije</p>
+</div>
+
+</section>
+    
+<!--video-->
+    
+<section id="video">
+    <div class="title-text">
+    <p>Video</p>
+    <h1>Demonstracija vještina</h1>
+    <br>
+    <div class="iframe-container">
+    <iframe width="360" height="180" src="https://www.youtube.com/embed/Yqu0doiiP7k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <br>
+    </div>
+
+    
+</section>
+    
+    
+<script>
+var menuBtn = document.getElementById("menuBtn")
+var sideNav = document.getElementById("sideNav")
+var menu = document.getElementById("menu")
+
+sideNav.style.right = "-250px";
+
+menuBtn.onclick = function(){
+    if(sideNav.style.right == "-250px"){
+        sideNav.style.right = "0";
+    }
+    else{
+        sideNav.style.right = "-250px";
+    }
+}
+
+var scroll = new SmoothScroll('a[href*="#"]', {
+	speed: 1000,
+	speedAsDuration: true
+});
+    
+    
+</script>
+    
+    
+</body>
+</html>
